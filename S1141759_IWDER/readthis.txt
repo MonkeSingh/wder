@@ -1,0 +1,9 @@
+In de website heb je animaties die wanneer je een pagina opent dan gaat de opacity van 0 naar 1 dus de tekst is helemaal weg en komt na 5 seconde in de website.
+
+ook is er bij elke nav bar list item als je erop klikt hoor je een GUNSHOT. schrik daar aub niet van, dit is gewoon een beetje interactieve javascript die bij het thema van John Wick hoort. 
+
+Ik heb ook een Merch Shop voor John Wick waar je diverse items kan kopen. Je kan ze in de Winkelwagen plaatsen en ze afrekenen in de cart popup hierna krijg je een message dat je dat product hebt gekocht.  
+
+Ook als je naar de index.html gaat zie je een grote foto van john wick. Dit is een Carousel. Dat betekent dat je verschillende plaatjes kan krijgen door op de pijlen van links en rechts te klikken. 
+
+Mijn firebas link is : https://iwder-toets-f4be9.web.app 
